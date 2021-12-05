@@ -1,1 +1,2 @@
-# IPL-dataset
+In this repository, I have taken IPL dataset which contains details about IPL cricket matches played from year 2008 to 2019. Data cleaning process is done in python. Data visualization is done in Tableau.
+I have uploaded the original csv file "matches.csv" and the cleaned dataset file "matched_cleaned.csv".Also I have attached the Tableau workbook file(.twbx) and attached the overall report in PDF format.
